@@ -1,0 +1,74 @@
+{
+    "customers": [
+        {
+            "userName": "apple000",
+            "firstName": "PRESHI",
+            "middleName": "GOJO",
+            "lastName": "JOYBOY",
+            "dateOfBirth": "1991-03-17",
+            "placeOfBirth": "METRO MANILA",
+            "birthSex": "FEMALE",
+            "nationality": "FILIPINO",
+            "civilStatus": "MARRIED",
+            "subAccountBalance": [
+                {
+                    "accountType": "DEBIT",
+                    "accountNumber": "13121313213",
+                    "accountBalance": "10567.75",
+                    "accountBalanceDate": "2023-01-22"
+                }
+            ],
+            "clientIds": [
+                {
+                    "identificationType": "SSS",
+                    "identificationNumber": "1231231321"
+                }
+            ],
+            "clientPhones": [
+                {
+                    "mobileNumber": "091234567777"
+                }
+            ],
+            "clientEmail": [
+                {
+                    "email": "HUAWEI.NOVA3I.YR18@gmail.com"
+                }
+            ]
+        },
+        {
+            "userName": "cadburny000",
+            "firstName": "AYO",
+            "middleName": "TIMS",
+            "lastName": "WASSAP",
+            "dateOfBirth": "1991-03-17",
+            "placeOfBirth": "METRO MANILA",
+            "birthSex": "MALE",
+            "nationality": "FILIPINO",
+            "civilStatus": "SINGLE",
+            "subAccountBalance": [
+                {
+                    "accountType": "DEBIT",
+                    "accountNumber": "300012313123",
+                    "accountBalance": "10567.75",
+                    "accountBalanceDate": "2022-12-22"
+                }
+            ],
+            "clientIds": [
+                {
+                    "identificationType": "SSS",
+                    "identificationNumber": "1231231321"
+                }
+            ],
+            "clientPhones": [
+                {
+                    "mobileNumber": "091234567777"
+                }
+            ],
+            "clientEmail": [
+                {
+                    "email": "HUAWEI.NOVA3I.YR18@gmail.com"
+                }
+            ]
+        }
+    ]
+}

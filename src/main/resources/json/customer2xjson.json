@@ -1,0 +1,28 @@
+{
+    "customersPersonalInformations": [
+        {
+            "seqNo" : 1,
+            "userName": "apple000",
+            "firstName": "PRESHI",
+            "middleName": "GOJO",
+            "lastName": "JOYBOY",
+            "dateOfBirth": "1991-03-17",
+            "placeOfBirth": "METRO MANILA",
+            "birthSex": "FEMALE",
+            "nationality": "FILIPINO",
+            "civilStatus": "MARRIED"
+        },
+        {
+            "seqNo" : 2,
+            "userName": "cadburny000",
+            "firstName": "AYO",
+            "middleName": "TIMS",
+            "lastName": "WASSAP",
+            "dateOfBirth": "1991-03-17",
+            "placeOfBirth": "METRO MANILA",
+            "birthSex": "MALE",
+            "nationality": "FILIPINO",
+            "civilStatus": "SINGLE"
+        }
+    ]
+}

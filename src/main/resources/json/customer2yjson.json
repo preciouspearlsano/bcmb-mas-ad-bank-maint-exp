@@ -1,0 +1,18 @@
+{
+    "customersSubAccountsBalance": [
+        {
+            "seqNo" : 1,
+            "accountType": "DEBIT",
+            "accountNumber": "13121313213",
+            "accountBalance": "10567.75",
+            "accountBalanceDate": "2023-01-22"
+        },
+        {
+            "seqNo" : 2,
+            "accountType": "DEBIT",
+            "accountNumber": "300012313123",
+            "accountBalance": "10567.75",
+            "accountBalanceDate": "2022-12-22"
+        }
+    ]
+}
